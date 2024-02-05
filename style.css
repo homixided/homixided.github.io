@@ -1,0 +1,16 @@
+html {
+    height: 100vh;
+}
+body {
+    background-color: plum;
+    display: flex;
+    justify-content:center;
+    height: 100vh;
+    align-items: center;
+}
+
+#one {
+    background-color: black;
+    height: 200px;
+    width: 200px;
+}
